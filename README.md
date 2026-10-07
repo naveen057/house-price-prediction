@@ -78,10 +78,8 @@ Add the actual evaluation results from your notebook here.
 
 | Metric   |          Result |
 | -------- | --------------: |
-| R² Score | **[Add value]** |
-| MAE      | **[Add value]** |
-| MSE      | **[Add value]** |
-| RMSE     | **[Add value]** |
+| R² Score | **0.7690 (76.90%)** |
+
 
 > Use the actual values from your notebook. Do not add estimated results.
 
